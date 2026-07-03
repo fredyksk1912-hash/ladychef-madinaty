@@ -1,0 +1,16 @@
+{
+  "name": "Lady Chef — Delicious Home-Style",
+  "short_name": "Lady Chef",
+  "description": "Homemade dumplings, pastries, soups & desserts. Order online for delivery or pickup in Madinaty.",
+  "start_url": "./ladychef.html",
+  "display": "standalone",
+  "background_color": "#0a0806",
+  "theme_color": "#c9962a",
+  "orientation": "portrait",
+  "lang": "ru",
+  "categories": ["food", "shopping"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
